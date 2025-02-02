@@ -6,7 +6,7 @@ const HeroSection = () => {
     <div className="flex flex-col items-center mt-6 lg:mt-20">
         <h3 className="mt-5 mb-7 text-lg text-center text-white max-w-4xl">Created by Azhar Aufa, Jeki X, Bryanverz</h3>
         <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
-            AufalR Code build tools 
+           XYZ Code build tools 
             <span className="bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text">{" "}for developers</span>
         </h1>
         <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">
